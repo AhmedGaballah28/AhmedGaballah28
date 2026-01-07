@@ -146,26 +146,18 @@ current_focus:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AhmedGaballah28&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedGaballah28&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedGaballah28/AhmedGaballah28/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedGaballah28/AhmedGaballah28/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedGaballah28/AhmedGaballah28/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGaballah28&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=22D3EE&point=A855F7" width="100%" alt="Activity Graph"/>
 </div>
-
-> ⚠️ **Note**: The snake animation will appear after you push this profile to GitHub and the workflow runs for the first time. You can trigger it manually in Actions → Generate Snake Animation → Run workflow.
 
 <br/>
 

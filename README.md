@@ -153,17 +153,7 @@ current_focus:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedGaballah28&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=22D3EE&point=A855F7" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>

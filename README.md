@@ -5,9 +5,9 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🤖+Generative+AI+Engineer;🔮+LLMs+%7C+RAG+%7C+AI+Agents;🚀+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
-  </a>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A4%96+Generative+AI+Engineer;%F0%9F%94%AE+LLMs+%7C+RAG+%7C+AI+Agents;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems)
+  
 </div>
 
 <!-- Profile Views Counter -->
@@ -94,18 +94,18 @@ current_focus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/AhmedGaballah28">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedGaballah28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/AhmedGaballah28">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedGaballah28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" height="180" alt="Top Languages"/>
-  </a>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedGaballah28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmedGaballah28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" height="180" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <a href="https://github.com/AhmedGaballah28">
-    <img src="https://streak-stats.demolab.com?user=AhmedGaballah28&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE" width="700" alt="GitHub Streak"/>
-  </a>
+  <picture>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=AhmedGaballah28&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE" width="700" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br/>
@@ -146,9 +146,9 @@ current_focus:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/AhmedGaballah28">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedGaballah28&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies"/>
-  </a>
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=AhmedGaballah28&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
+  
 </div>
 
 <br/>

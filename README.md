@@ -44,7 +44,7 @@ current_focus:
 - 🔭 Currently working on **AI-powered applications & RAG systems**
 - 🌱 Learning **Advanced LLM architectures & AI Agent frameworks**
 - 💡 Passionate about **transforming complex problems into AI solutions**
-- 📫 Reach me at **ah8311248@gmail.com**
+- 📫 Reach me at **ahmedhishamgaballah02@gmail.com**
 - ⚡ Fun fact: I bridge the gap between **hardware (embedded systems)** and **AI**
 
 <br/>
